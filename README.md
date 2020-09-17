@@ -1,4 +1,4 @@
-# Semana Omnistack 11 :rocket:
+# Semana Omnistack 11.0 :rocket:
 
 by [Rocketseat](https://rocketseat.com.br/)
 a Project to build in one week, the backend, frontend and the mobile of an application called "Be the Hero".
